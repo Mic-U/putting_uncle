@@ -1,0 +1,7 @@
+{
+  "token": "slack-api-token",
+  "accessKeyId": "aws-access-key",
+  "secretAccessKey": "aws-secret-key",
+  "region": "aws-region",
+  "bucket": "bucket-name"
+}
