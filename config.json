@@ -1,7 +1,9 @@
 {
-  "token": "slack-api-token",
+  "token": "alack-bot-token",
   "accessKeyId": "aws-access-key",
   "secretAccessKey": "aws-secret-key",
-  "region": "aws-region",
-  "bucket": "bucket-name"
+  "region": "region",
+  "bucket": "bucket",
+  "useProxy": false,
+  "proxy": "proxy-server"
 }
